@@ -16,6 +16,7 @@ body {
 
 .navbar-nav li a {
   color: whitesmoke;
+
 }
 
 .navbar-nav a:hover {
@@ -25,5 +26,9 @@ body {
 .navbar-nav > li > .dropdown-menu {
   background-color: rgb(7, 107, 107);
 }
+
+
+
+
 
 
