@@ -8,4 +8,6 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-include: [@poperjs, scss, _reboot.scss, _navbar.scss]
+sass:
+
+  sass_dir: assets/css
