@@ -9,5 +9,4 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 sass:
-
-  sass_dir: scss
+  style: compressed
