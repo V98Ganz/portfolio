@@ -10,4 +10,4 @@ kramdown:
   syntax_highlighter: rouge
 sass:
 
-  sass_dir: /css
+  sass_dir: scss
