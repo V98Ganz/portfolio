@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/V98Ganz/myPortfolio01#readme",
   "dependencies": {
-    "bootstrap": "^5.0.0-beta2"
+    "bootstrap": "^5.0.0-beta2",
+    "popper.js": "^1.16.1"
   }
 }
