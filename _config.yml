@@ -1,1 +1,1 @@
-{% include _navbar.scss %}
+{% includes node_modules %}
