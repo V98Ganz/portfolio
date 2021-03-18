@@ -27,7 +27,18 @@ body {
   background-color: rgb(7, 107, 107);
 }
 
+.title {
+  size: 60px;
+  color: #424447;
+  /* background-color: white; */
+  /* position: fixed; */
+  /* top: 200px; */
 
+}
+
+.text-main {
+  color: #424447;
+}
 
 
 
