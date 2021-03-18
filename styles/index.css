@@ -1,22 +1,29 @@
 body {
-    background-image: url(../images/20190928_191235.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color: aliceblue;
-    /* height: 500px; */
-    background-position: center;
-    height: 100%;
-    width: 100%;
-    background-attachment: fixed;
+  background-image: url(../images/20190928_191235.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: aliceblue;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  background-attachment: fixed;
 }
 
-#paragraphs {
-    color: #fae6ff;
-    margin: 10px 10px;
-    padding: 2.5rem 1.25rem;
-    background-color: linear-gradient(top right #63a2c2, #ed9de0);
+.navbar {
+  background-color: teal;
+
 }
 
-#header {
-    position: fixed;
+.navbar-nav li a {
+  color: whitesmoke;
 }
+
+.navbar-nav a:hover {
+  background-color: #085259;
+}
+
+.navbar-nav > li > .dropdown-menu {
+  background-color: rgb(7, 107, 107);
+}
+
+
