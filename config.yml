@@ -10,3 +10,4 @@ kramdown:
   syntax_highlighter: rouge
 sass:
   style: compressed
+  sass_dir: _sass

@@ -1,0 +1,45 @@
+body {
+  background-image: url(../images/20190928_191235.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: aliceblue;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  background-attachment: fixed;
+}
+
+.navbar {
+  background-color: teal;
+
+}
+
+.navbar-nav li a {
+  color: whitesmoke;
+
+}
+
+.navbar-nav a:hover {
+  background-color: #085259;
+}
+
+.navbar-nav > li > .dropdown-menu {
+  background-color: rgb(7, 107, 107);
+}
+
+.title {
+  size: 60px;
+  color: #424447;
+  /* background-color: white; */
+  /* position: fixed; */
+  /* top: 200px; */
+
+}
+
+.text-main {
+  color: #424447;
+}
+
+
+
+
