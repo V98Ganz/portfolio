@@ -1,23 +1,27 @@
 @import "bootstrap";
 
 body {
-  background-image: url(../images/20190928_191235.jpg);
+  /* background-image: url(../images/20190928_191235.jpg); */
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: aliceblue;
+  background-color: rgb(79, 88, 97);
   background-position: center;
   height: 100%;
   width: 100%;
   background-attachment: fixed;
 }
 
+/* .navbar-text {
+  color:whitesmoke;
+} */
+
 .navbar {
   background-color: teal;
-
+  /* color: #ffffff; */
 }
 
 .navbar-nav li a {
-  color: whitesmoke;
+  color: rgba(255, 255, 255, 0.781);
 
 }
 
@@ -30,18 +34,24 @@ body {
 }
 
 .title {
-  size: 60px;
-  color: #424447;
-  /* background-color: white; */
-  /* position: fixed; */
-  /* top: 200px; */
-
+  color: #d5dfee;
+  display: block;
 }
 
 .text-main {
-  color: #424447;
+  color: #d5dfee;
 }
 
+.text-in-img {
+  color: aliceblue;
+  background-color: black;
+  
+}
 
+.intro {
+  padding-top: 5%;
+}
 
-
+.role {
+  padding-bottom: 5%;
+}
